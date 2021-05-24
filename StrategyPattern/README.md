@@ -1,5 +1,5 @@
 # Strategy Design Pattern
-![bigpicture](images/strategydefinition.png)
+![stategypattern](images/strategydefinition.png)
 
 ## Three principle of strategy pattern
 > 1. Identify the aspects of your application that vary and separate them from what stays the same. 

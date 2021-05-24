@@ -9,7 +9,7 @@ Every subfolder contains another README.md with detailed explanation.
 The patterns included in this repo are:
 
 - [x] [Strategy pattern](StrategyPattern/)
-- [ ] Observer Pattern
+- [x] [Observer Pattern](ObserverPattern/)
 - [ ] Decorator Pattern
 - [ ] Factory Pattern
 - [ ] Singleton Pattern
